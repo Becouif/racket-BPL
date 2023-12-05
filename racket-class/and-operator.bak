@@ -1,0 +1,2 @@
+(> (image-height I1) (image-height I2))
+
